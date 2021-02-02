@@ -6,4 +6,4 @@
     {
 	    echo $_POST['a']." a la puissance ".$_POST['b']." vaut: ".pow($_POST['a'], $_POST['b']);
     }
-?>=
+?>
