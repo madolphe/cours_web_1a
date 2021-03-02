@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+div.container_wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+div.container_nowrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+.class1{
+    background: #1A90EB;
+    display: flex;
+    justify-content: center;
+}
+.class2{
+    background: #1DF2E0;
+    display: flex;
+    justify-content: center;
+}
+span{
+    width: 500px;
+}

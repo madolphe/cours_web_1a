@@ -1,0 +1,11 @@
+div.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
+.item{
+    flex-shrink: 0;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}

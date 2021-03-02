@@ -1,0 +1,21 @@
+
+div.container_row{
+    display: flex;
+    flex-direction: row;
+    border: solid black 1px;
+}
+div.container_row_reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    border: solid black 1px;
+}
+div.container_column_reverse{
+    display: flex;
+    flex-direction: column;
+    border: solid black 1px;
+}
+div.container_column{
+    display: flex;
+    flex-direction: column-reverse;
+    border: solid black 1px;
+}

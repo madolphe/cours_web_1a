@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+div.container{
+    background: beige;
+    border: solid 1px black;
+}
+.class1{
+    width: 50px;
+    background: #1A90EB;
+    display: flex;
+    justify-content: center;
+}
+.class2{
+    background: #1DF2E0;
+    display: flex;
+    justify-content: center;
+    width: 50px;
+}

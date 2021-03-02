@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 700px;
+    height: 300px;
+    display: flex;
+    border: solid black 1px;
+    margin: 50px;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: 10px;
+    font-size: 30px;
+}
+#target{
+    border: solid darkred 1px;
+    order: 2;
+    align-self: flex-start;
+}
