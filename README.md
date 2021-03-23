@@ -19,4 +19,4 @@ L'objectif principal du module est d'introduire un ensemble d'outils utiles à l
 - Si le temps le permet, introduction à JS:
   - 3h: 26/02
 - Projet, votre propre site from scratch:
-  - Au moins 12h: 02/03 + 09/03 + 16/03 + 22/03 + 30/03
+  - Au moins 12h: 02/03 + 09/03 + 16/03 + 22/03
