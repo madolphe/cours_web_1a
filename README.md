@@ -6,7 +6,7 @@ Ici, vous trouverez l'ensemble des corrections apportées lors des TDs/TPs. Le r
 ## Plan du cours
 *Cette structure sera amenée à être modifiée en fonction des avancements du groupe.*
 
-L'objectif principal du module est d'introduire un ensemble d'outils utiles à la conception d'un site internet mais aussi à la compréhension du web en général. Le plan du cours est le suivant:
+L'objectif principal du module est d'introduire un ensemble d'outils utiles à la conception d'un site internet mais aussi à la compréhension du web en général. Le plan du cours, *pour le groupe 4*, est le suivant:
 
 - Introduction au web dynamique avec php
   - 6 à 9h: séances du 28/01 + 29/01 + mi 02/02
